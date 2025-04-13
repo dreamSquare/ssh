@@ -53,4 +53,4 @@ print("Test loss:", score[0])
 print("Test accuracy:", score[1])
 
 # 7. 保存模型（可选）
-# model.save("mnist_cnn.keras")
+model.save("mnist_cnn.keras")
